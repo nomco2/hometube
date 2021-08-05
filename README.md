@@ -26,4 +26,9 @@
  - [] 업로드/다운로드/플레이(REST API)
  - [] JSON 포멧 / 응답, 요청
  - [] NoSQL : json과 db를 함께 맞춰서 써야 될 때
- 
+
+
+ ## 1. HTTP 서버 만들기 
+ - Node.js 써서 HTTP 서버 만들기
+ - Express.js => 요청, 응답
+ - Express를 사용하기 위해 npm 사용
