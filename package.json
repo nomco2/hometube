@@ -1,0 +1,26 @@
+{
+  "name": "hometube",
+  "version": "1.0.0",
+  "description": "http 동영상 서버",
+  "main": "basic1_app.js",
+  "scripts": {
+    "dev": "nodemon app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nomco2/hometube.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nomco2/hometube/issues"
+  },
+  "homepage": "https://github.com/nomco2/hometube#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "pug": "^3.0.2"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.12"
+  }
+}
